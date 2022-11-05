@@ -69,7 +69,10 @@ Luego iremos al contract que hemos creado [NaiProxy](https://goerli.voyager.onli
 
 Ahora que ya se ha realizado el `initializer` podremos ver el nombre del token, simbolo, supply, quien es el dueño y admin de contract...
 
-![Graph](/Imagenes/nombre.png), ![Graph](/Imagenes/owner.png), ![Graph](/Imagenes/supply.png)
+![Graph](/Imagenes/nombre.png)
+![Graph](/Imagenes/supply.png)
+![Graph](/Imagenes/owner.png)
+
 
 
 ## Conclusión
