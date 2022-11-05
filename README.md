@@ -23,7 +23,7 @@ instalar gh repo clone OpenZeppelin/cairo-contracts
 
 ## Creación de NaiProxy en Cairo
 
-* Puedes usar esta implementación como base del Smart [NaiProxy](https://github.com/Nadai2010/Nadai-Starknet-ERC20-Proxy/src/NaiProxy.cairo)
+* Puedes usar esta implementación como base del Smart [NaiProxy](https://github.com/Nadai2010/Nadai-NaiProxy-Starknet-ERC20/blob/master/src/NaiProxy.cairo)
 
 * Puede crear su propia implementación de ERC20 en Cairo herramienta de OpenZeppelin [Wizard](https://wizard.openzeppelin.com/cairo#erc20)
 
@@ -69,7 +69,7 @@ Luego iremos al contract que hemos creado [NaiProxy](https://goerli.voyager.onli
 
 Ahora que ya se ha realizado el `initializer` podremos ver el nombre del token, simbolo, supply, quien es el dueño y admin de contract...
 
-![Graph](/Imagenes/nai.png)
+![Graph](/Imagenes/nombre.png), ![Graph](/Imagenes/owner.png), ![Graph](/Imagenes/supply.png)
 
 
 ## Conclusión
