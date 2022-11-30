@@ -18,7 +18,7 @@ Antes de empezar asegurese de tener instalado [Protostar](https://github.com/Nad
 Debemos instalar las librerias de OpenZeppelin usando el comando
 
 ```bash
-instalar gh repo clone OpenZeppelin/cairo-contracts
+gh repo clone OpenZeppelin/cairo-contracts
 ```
 
 ## Creación de NaiProxy en Cairo
